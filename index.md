@@ -10,3 +10,8 @@ this imagen of a cat
 > console.log('Hello world')
 > Hello World 
 ```
+
+
+- [x] Today is thursday
+- [ ] Today is friday
+- [x] Today is not saturday
